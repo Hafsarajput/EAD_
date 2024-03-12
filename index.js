@@ -1,3 +1,5 @@
 console.log("Hello world")
-console.log("hi")
+console.log("how")
 alert("hi")
+console.log("why")
+
